@@ -1,0 +1,23 @@
+npm install expo-linear-gradient
+npm install expo-blur
+npm install @react-navigation/native @react-navigation/stack
+npm install @react-navigation/drawer
+npm install react-native-safe-area-context
+npx expo install react-native-gesture-handler@~2.28.0 react-native-reanimated@~4.1.1 react-native-screens@~4.16.0
+npm install babel-preset-expo --save-dev
+npm install @react-navigation/bottom-tabs
+npx expo install expo-font expo-splash-screen
+npx expo install expo-location
+npm install @react-native-async-storage/async-storage
+npm install expo-camera
+npm install expo-image-picker
+npx expo install expo-av expo-video-thumbnails
+npm install @react-native-google-signin/google-signin
+npm install firebase
+npx expo install expo-sqlite
+npm install cloudinary
+npm install i18n-js
+npm install expo-dev-client
+
+API environment variable	
+CLOUDINARY_URL=cloudinary://615745948354636:**********@dzui43n6y
